@@ -17,7 +17,6 @@ Before running the notebook, ensure you have the following installed:
 
 - Python 3.7 or above
 - Jupyter Notebook
-- Required libraries (see below)
 
 ## Required Libraries
 Pandas
